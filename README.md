@@ -1,7 +1,7 @@
 # Terraform
 Infrastructure as a Code
-
-**For a project, you need to; **
+This is a reference to hands on done on terraform 
+For this project;
 
 >> Create a VPC 
 
